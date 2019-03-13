@@ -5,3 +5,5 @@
 <p>3)Created a GUI for the end users by designing forms and coding the Buttons with fuctionality of DML,DDL scripts.
 <p>4)This resulted in Speedy Computation,improved quality of decision making,increased organizational control.
 <p>5)Effectively reduced the time required to retrieve Data for making Financial Reports.
+
+Tech Stack - MySQL,RDBMS,VBA,ASP.NET, Excel.
